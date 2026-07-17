@@ -9,6 +9,9 @@ This project allows users to easily calculate price and order fresh atta directl
 https://solanki-tarun.github.io/ss-flour-mill/
 
 ---
+## 📸 Screenshots
+
+![Home Page](home.png)
 
 ## ✨ Features
 
