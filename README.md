@@ -36,5 +36,5 @@ https://solanki-tarun.github.io/ss-flour-mill/
 👨‍💻 Author
 Tarun Solanki
 
-GitHub: 
+GitHub: https://github.com/solanki-tarun
 
