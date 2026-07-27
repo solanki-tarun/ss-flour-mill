@@ -26,6 +26,8 @@ Quantity: ${qty} KG
 ${price}
 Address: ______`;
 
-  let url = "https://wa.me/91YOURNUMBER?text=" + encodeURIComponent(message);
-  window.open(url, "_blank");
+  let url = "https://wa.me/91XXXXXXXXXX?text=" + encodeURIComponent(message);
+
+  // ✅ FIXED (mobile friendly)
+  window.location.href = url;
 }
