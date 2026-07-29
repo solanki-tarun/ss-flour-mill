@@ -38,3 +38,8 @@ Tarun Solanki
 
 GitHub: https://github.com/solanki-tarun
 
+⭐ Support
+If you like this project, please star ⭐ the repository and share it!
+
+
+
