@@ -15,7 +15,7 @@ https://solanki-tarun.github.io/ss-flour-mill/
 
 ## ✨ Features
 
-- 🛒 Easy product selection (5kg, 10kg, etc.)
+- 🛒 Easy product selection (5kg, 10kg, 15kg, etc.)
 - 💰 Auto price calculation
 - 📲 WhatsApp instant order system
 - 📍 Google Maps location integration
