@@ -22,7 +22,7 @@ https://solanki-tarun.github.io/ss-flour-mill/
 - 📞 One-click call button
 - 📱 Fully responsive (mobile friendly)
 - ⚡ Fast and lightweight design
-- Add online payment 
+
 
 ---
 
