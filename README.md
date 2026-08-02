@@ -36,6 +36,7 @@ https://solanki-tarun.github.io/ss-flour-mill/
 
 ## Future plan
 -- Add online payment
+-- best ui
 
 👨‍💻 Author
 Tarun Solanki
