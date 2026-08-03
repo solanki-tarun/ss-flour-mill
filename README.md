@@ -40,6 +40,7 @@ https://solanki-tarun.github.io/ss-flour-mill/
 
 ## Update
 Today I updated my project 🚀
+day 2 update 
 
 👨‍💻 Author
 Tarun Solanki
