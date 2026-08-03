@@ -38,6 +38,9 @@ https://solanki-tarun.github.io/ss-flour-mill/
 -- Add online payment
 -- best ui
 
+## Update
+Today I updated my project 🚀
+
 👨‍💻 Author
 Tarun Solanki
 
