@@ -37,6 +37,7 @@ https://solanki-tarun.github.io/ss-flour-mill/
 ## Future plan
 -- Add online payment
 -- best ui
+-- new feature
 
 ## Update
 Today I updated my project 🚀
