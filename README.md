@@ -39,10 +39,7 @@ https://solanki-tarun.github.io/ss-flour-mill/
 -- best ui
 -- new feature
 
-## Update
-Today I updated my project 🚀
-day 2 update 
-day 3 update 
+
 
 👨‍💻 Author
 Tarun Solanki
