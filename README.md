@@ -40,6 +40,8 @@ https://solanki-tarun.github.io/ss-flour-mill/
 -- new feature
 -- ai include
 
+## Update 
+-- day 1
 
 
 👨‍💻 Author
