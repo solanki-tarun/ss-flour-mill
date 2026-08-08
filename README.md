@@ -42,6 +42,7 @@ https://solanki-tarun.github.io/ss-flour-mill/
 
 ## Update 
 -- day 1
+-- day 2
 
 
 👨‍💻 Author
